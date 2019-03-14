@@ -1,1 +1,5 @@
 # devstudy
+
+'''
+class Test{}
+'''
